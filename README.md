@@ -15,7 +15,7 @@ If you want to open these in new tab, Press `CTRL+click`
 <tr>
 <td> 1. </td>
 <td>
-<a href ="https://github.com/pragyaasapkota/Blockchain-Made-Easy/tree/master/Beyond%20Money:%20The%20Impact%20of%20Enabling%20Widespread%20NFT%20Minting"> Beyond Money: The Impact of Enabling Widespread NFT Minting</a>
+<a href ="https://github.com/pragyaasapkota/Blockchain-Made-Easy/tree/main/Beyond%20Money:%20The%20Impact%20of%20Enabling%20Widespread%20NFT%20Minting"> Beyond Money: The Impact of Enabling Widespread NFT Minting</a>
 </td>
 </tbody>
 </table>
